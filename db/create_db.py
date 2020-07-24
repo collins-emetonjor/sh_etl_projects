@@ -5,3 +5,10 @@ Change History
 Author:                         Date:                Comment
 
 """
+
+# import module to create sqlite db
+
+import sqlite3 as sql
+
+# create db
+sql.connect('/SH_Dev.db')
