@@ -2,7 +2,7 @@ import urllib.request
 
 print('Beginning file download with urllib2...')
 
-url = 'https://github.com/collins-emetonjor/sh_etl_projects/blob/master/data/Senior%20Data%20Engn-%20agaricus-lepiota%20-%20send.csv'
+url = 'https://github.com/collins-emetonjor/sh_etl_projects/blob/master/data/sh_data.csv'
 urllib.request.urlretrieve(url, 'cat1.csv')
 
 """
