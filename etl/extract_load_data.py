@@ -1,5 +1,5 @@
 """
-Author: Collins Emetonjor       Date: 24/07/2020     Comment: script to create 'sh_dev' db on a target SQL server
+Author: Collins Emetonjor       Date: 24/07/2020     Comment: script to extract and load the mushroom datasets from the csv file to the staging tables. 
                                                               Details for DB name, server, username & password are in the variable.py file
 
 Change History

@@ -1,5 +1,5 @@
 """
-Author: Collins Emetonjor       Date: 24/07/2020     Comment: script to create staging table
+Author: Collins Emetonjor       Date: 24/07/2020     Comment: script to create staging tables
 
 Change History
 Author:                         Date:                Comment

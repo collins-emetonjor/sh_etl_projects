@@ -1,5 +1,5 @@
 """
-Author: Collins Emetonjor       Date: 24/07/2020     Comment: script to create 'sh_dev' db on a target SQL server
+Author: Collins Emetonjor       Date: 24/07/2020     Comment: script to perform data mapping updates.
                                                               Details for DB name, server, username & password are in the variable.py file
 
 Change History
