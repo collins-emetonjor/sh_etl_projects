@@ -1,9 +1,11 @@
 # sh_etl_projects
 
 This project was developed in python (3.8.3) and uses the following python modules 
+
 •	Pyodbc
 •	Pandas
 •	Haversine
+
 The modules can be installed from the python terminal 
 •	Pyodbc (pip install pyodbc) 	for SQL server connectivity
 •	Pandas (pip install pandas) 	for data analysis
