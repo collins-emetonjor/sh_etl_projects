@@ -20,17 +20,17 @@ The solution has four folders discussed below
 
 1.	create_db.py: script to create the sql server DB
 2.	create_table.py script to create the sql server staging tables
-3.	variables: variables used by the python script
+3.	variable.py: variables used by the python script
 
 **etl:** contains four files
 1.	extract_load_data.py: script to load the data from the flat file into the SQL staging tables
 2.	transform_data_column_updates.py: script to update the columns of the staging tables. 
 3.	transform_data_mapping_updates.py: script to apply mappings. 
-4.      variable.py
+4. variable.py: variables used by the python script
 
 **sql:** contains two files
-1.      sql.ipynb: This was implemented as a python notebook for clarity and simplifications of steps taken to arrive at the results, please use a jupyter notebook or visual studio code notebook to open it. 
-2.      variable.py
+1. sql.ipynb: This was implemented as a python notebook for clarity and simplifications of steps taken to arrive at the results, please use a jupyter notebook or visual studio code notebook to open it. 
+2. variable.py: variables used by the python script
 
 **data:** contains one file
 1.      sh_data.csv: The dataset used for the project
