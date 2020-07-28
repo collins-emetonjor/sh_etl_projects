@@ -25,7 +25,7 @@ The solution has four folders discussed below
 **etl:** contains four files
 1.	extract_load_data.py: script to load the data from the flat file into the SQL staging tables
 2.	transform_data_column_updates.py: script to update the columns of the staging tables. 
-3.	transform_data_mapping_updates.py: script apply mappings. 
+3.	transform_data_mapping_updates.py: script to apply mappings. 
 4.      variable.py
 
 **sql:** contains two files
